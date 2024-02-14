@@ -1,2 +1,2 @@
-k = int(input('Введите имя: '))
+k=input('Введите имя: ')
 print('Hello,', k)
